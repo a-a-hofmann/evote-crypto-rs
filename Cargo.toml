@@ -1,8 +1,11 @@
 [package]
 name = "evote-crypto-rs"
 version = "0.1.0"
-authors = ["Alexander Hofmann <alexhofmann@gmail.com>"]
+authors = ["Alexander Hofmann"]
 edition = "2018"
+description = "E-voting crypto library. Not for production use!"
+repository = "https://github.com/a-a-hofmann/evote-crypto-rs"
+license = "unlicensed"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
