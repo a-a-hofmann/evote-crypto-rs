@@ -1,4 +1,4 @@
-![Rust](https://github.com/a-a-hofmann/evote-crypto-rs/workflows/Rust/badge.svg)
+![CircleCI](https://circleci.com/gh/a-a-hofmann/evote-crypto-rs.svg?style=shield)
 
 # evote-crypto
 Simple rust crypto library for my thesis. Only includes text-book version of crypto algorithms.
