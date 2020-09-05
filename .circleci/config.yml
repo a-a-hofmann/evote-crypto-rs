@@ -5,6 +5,9 @@ commands:
   setup:
     description: "Setup cargo"
     steps:
+      - run: |
+          apt-get update -y
+          apt-get install -y pkg-config
       - run: cargo --version
       - run: |
           rustup update nightly
