@@ -30,7 +30,7 @@ commands:
 
   build_wasm:
     description: "Build WASM-js bindings"
-    sets:
+    steps:
       - run: wasm-pack build
 
   store_cache:
